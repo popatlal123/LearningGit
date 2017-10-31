@@ -1,5 +1,5 @@
 # LearningGit
-* one
+* on
 * two
 * three
 * four
