@@ -1,6 +1,6 @@
 # LearningGit
 * one
 * two
-* three
+* thee
 * four
 * five
