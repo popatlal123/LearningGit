@@ -1,5 +1,4 @@
-# LearningGit
-* one
+# LearningGit* one
 * two
 * three
 * four
